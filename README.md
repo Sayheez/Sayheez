@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Seyi from Nigeria but presently in Newcastle upon Tyne UK, and I do programming and software development. I really enjoy learning languages and frameworks like React, Django, Express, as well as work in Databases including SQL and NoSQL. I also enjoy wireframing, ui, ux, and design in general. You may check me out on twitter at twitter.com/blogfim or facebook.com/seyisamuel
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayheez)](https://github.com/anuraghazra/github-readme-stats)
 
