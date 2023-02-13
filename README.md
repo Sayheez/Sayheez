@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+I'm Seyi from Newcastle, and I do content on Design and Development. I really enjoy learning languages and frameworks like React, Django, Express, as well as work in Bootspring. I also emjoy wireframing, ui, ux, and design in general. You may check me out on twitter at twitter.com/blogfim or facebook.com/seyisamuel
+
+
+(https://github-readme-stats.vercel.app/api?username=sayheez)](https://github.com/sayheez/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Sayheez/Sayheez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
