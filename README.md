@@ -1,8 +1,24 @@
 ### Hi there 👋
 
-I'm Seyi from Newcastle, and I do content on Design and Development. I really enjoy learning languages and frameworks like React, Django, Express, as well as work in Bootspring. I also emjoy wireframing, ui, ux, and design in general. You may check me out on twitter at twitter.com/blogfim or facebook.com/seyisamuel
+I'm Seyi from Nigeria but presently in Newcastle upon Tyne UK, and I do programming and software development. I really enjoy learning languages and frameworks like React, Django, Express, as well as work in Databases including SQL and NoSQL. I also enjoy wireframing, ui, ux, and design in general. You may check me out on twitter at twitter.com/blogfim or facebook.com/seyisamuel
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayheez)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hi there 👋, Seyi Samuel
+#### Software Developer
+![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm Seyi from Nigeria but presently in Newcastle upon Tyne UK, and I do programming and software development. I really enjoy learning languages and frameworks like Django, Express, React, as well as work in Databases including SQL and NoSQL. I also enjoy wireframing, ui, ux, and design in general. 
+
+Skills: DJANGO/ REACT / EXPRESS/ JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Software Engineering with Python (Django) and Agile Methodologies from Hyperiondev bootcamp 
+
+
+
+
+
 
 
 
