@@ -6,9 +6,22 @@
 
 #### Software Developer
 
-I'm Seyi from Nigeria but presently in Newcastle upon Tyne UK, and I do programming and software development. I really enjoy learning languages and frameworks like Django, Express, React, as well as work in Databases including SQL and NoSQL. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Seyi from Nigeria but presently in Newcastle upon Tyne UK, and I do programming and software development. 
+I really enjoy learning languages and frameworks like Django, Express, React, as well as work in Databases including SQL and NoSQL. 
+I also enjoy wireframing, ui, ux, and design in general. 
 
-Skills: DJANGO/ REACT / EXPRESS/ JS / HTML / CSS / MONGODB / MYSQL / POSTGRESQL
+| Rank | Languages     |
+|-----:|---------------|
+|     1| DJANGO        |
+|     2| REACT/REDUX   |
+|     3| EXPRESS       |
+|     4| HTML / CSS    |
+|     5| BOOTSTRAP     |
+|     6| MYSQL         |
+|     7| MONGODB       |
+|     8| POSTGRESQL    |
+|   
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Software Engineering with Python (Django) and Agile Methodologies from Hyperiondev bootcamp 
